@@ -1,0 +1,1 @@
+This company works with subscription-based mobile message services, and needed queries created for reporting purposes. Initial iteration of the queries shown here plus also some tests run for setting up alerts in Grafana.

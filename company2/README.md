@@ -1,0 +1,1 @@
+The objective for this task was to calculate a few additive metrics based on the 'matches_raw' table, which had a series of timestamps and attributes for matching audio streams with pre-recorded tracks.
