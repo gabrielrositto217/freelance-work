@@ -1,0 +1,1 @@
+Some of my work as a freelancer is showcased here. Company names are hidden for privacy purposes.
